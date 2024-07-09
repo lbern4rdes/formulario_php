@@ -1,0 +1,31 @@
+Operadores aritiméticos:
+
+2 + 2 = 4 (Todas as linguiagens de programação);
+"2" + "2" = ? = 4 Inteiro / Porque no PHP tem a separação entre concatenação (.) e soma.
+PHP antigo se somar duas strings com + e não for valor numero entende como 0;
+
+
+Operadores aritimeticos PHP:
+
++ = Adição;
+- = Subtração;
+* = Multiplicação;
+/ = Divisão real;
+% = Modulo (Não é porcentagem), Resto da divisão inteira;
+** Potencia ou exponenciação;
+
+5 + 2 = 7
+5 - 2 = 3
+5 * 2 = 10
+5 / 2 = 2,5
+5 % 2 = 1 (Resto da divisão inteira)
+5 ** 2 = (Não funciona antes da versão 5) = 25
+
+| **
+| * / %
+| + -
+V
+
+Ordem de precedencia, as de cima da seta tem maio precedencia que as anteriores, caso esteja no mesmo nivel faz o calculo primeiro da esquerda para direira.
+
+Como mudar a ordem de precedencia usando as parenteses (Primeiro o que está dentro)
