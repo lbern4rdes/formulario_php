@@ -29,3 +29,17 @@ V
 Ordem de precedencia, as de cima da seta tem maio precedencia que as anteriores, caso esteja no mesmo nivel faz o calculo primeiro da esquerda para direira.
 
 Como mudar a ordem de precedencia usando as parenteses (Primeiro o que está dentro)
+
+FUNÇÕES:
+
+abs() = Valor absoluto (Sem o sinal)
+base_convert() = converter bases numericas
+
+Arreondamento: ceil() = para cima, floor() = para baixo, roud() = aritimetica
+Divisão inteira: intdiv() Divisão inteira
+
+min() e max() = valor minimo e maximo de uma sequencia.
+
+pi()
+
+pow() = Potencia
